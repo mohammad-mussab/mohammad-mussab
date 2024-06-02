@@ -1,7 +1,7 @@
 [![Chat SVG](https://raw.githubusercontent.com/mohammad-mussab/mohammad-mussab/main/chat.svg)](https://www.linkedin.com/in/mussab-nayyar-/)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/mohammad-mussab/mohammad-mussab/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **mohammad-mussab/mohammad-mussab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
