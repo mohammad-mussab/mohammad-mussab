@@ -1,5 +1,11 @@
 [![Chat SVG](https://raw.githubusercontent.com/mohammad-mussab/mohammad-mussab/main/chat.svg)](https://www.linkedin.com/in/mussab-nayyar-/)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammd-mussab/mohammad-mussab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammad-mussab/mohammad-mussab/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammad-mussab/mohammad-mussab/output/github-contribution-grid-snake.svg">
+</picture>
 ## Hi there 👋
 
 <!--
