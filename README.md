@@ -1,3 +1,5 @@
+[![Chat SVG](https://raw.githubusercontent.com/mohammad-mussab/mohammad-mussab/main/chat.svg)](https://www.linkedin.com/in/mussab-nayyar-/)
+
 ## Hi there 👋
 
 <!--
