@@ -331,10 +331,7 @@
     <g transform="translate(10, 240)" class="msg-5">
       <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
       <text x="15" y="27">
-        Reach me out via
-        <a xlink:href="https://www.linkedin.com/in/mussab-nayyar-/">
-          <tspan fill="#0079ff">Linkedin ...</tspan>
-        </a>
+        Reach me out via Linkedin...
       </text>    
     </g>
     
