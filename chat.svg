@@ -283,7 +283,7 @@
       <!-- text 3-->
     <g transform="translate(10, 120)" class="msg-3">
       <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-      <text x="15" y="27">Currently, working on  RAG models.</text>    
+      <text x="15" y="27">Currently, learning CNN.</text>    
       <text x="15" y="50">Believe in self learning and Dedication!</text>
     </g>
   
@@ -308,7 +308,7 @@
     <!-- text 4  -->
     <g transform="translate(10, 192)" class="msg-4">
       <rect width="200" height="42" rx="18.0355" class="bubble" />
-      <text x="15" y="27">Curious Fellow ⬇</text>
+      <text x="15" y="27">Inquisitive buddy ⬇</text>
     </g>
 
    
@@ -332,8 +332,13 @@
         <!--text 5 -->
     
         <g transform="translate(10, 240)" class="msg-5">
-            <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
-            <text x="15" y="27">Reach me out via LinkedIn...</text>
+          <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
+          <text x="15" y="27">
+            Reach me out via
+            <a xlink:href="https://www.linkedin.com/in/mussab-nayyar-/">
+              <tspan fill="#0079ff">Linkedin ...</tspan>
+            </a>
+          </text>    
         </g>
         
         
