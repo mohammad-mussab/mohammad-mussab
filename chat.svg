@@ -233,7 +233,7 @@
     <!-- text 1 -->
     <g transform="translate(10, 0)" class="msg-1 bubble">
       <rect width="250" height="42" rx="18.0355" />
-      <text x="15" y="27">Hi, I'm Muhammad Mussab</text>
+      <text x="15" y="27">Hi, I'm Mohammad Mussab</text>
     </g> 
   
     <!-- typing 2 -->
@@ -257,8 +257,8 @@
       
     <g transform="translate(10, 48)" class="msg-2">
         <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
-        <text x="15" y="27">An Empowered Data Scientist.</text>
-        <text x="15" y="50">Exploring the wonders of Deep Learning.✨</text>
+        <text x="15" y="27">Agentic AI Developer.</text>
+        <text x="15" y="50">Building voice & chat agents with real-world impact✨</text>
       </g>
   
   
@@ -283,8 +283,8 @@
       <!-- text 3-->
     <g transform="translate(10, 120)" class="msg-3">
       <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-      <text x="15" y="27">Currently, learning CNN.</text>    
-      <text x="15" y="50">Believe in self learning and Dedication!💪</text>
+      <text x="15" y="27">Currently, learning LangGraph.</text>    
+      <text x="15" y="50">Firm believer in self-learning and ruthless consistency💪</text>
     </g>
   
     <!-- typing 4 -->
