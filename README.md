@@ -1,7 +1,7 @@
 [![Chat SVG](https://raw.githubusercontent.com/mohammad-mussab/mohammad-mussab/main/chat.svg)](https://www.linkedin.com/in/mohammad-mussab/)
 
 
-![snake gif](https://github.com/mohammad-mussab/mohammad-mussab/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/mohammad-mussab/mohammad-mussab/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--![profile-3d-animation](./profile-3d-contrib/profile-night-green.svg)-->
